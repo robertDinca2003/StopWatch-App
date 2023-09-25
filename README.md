@@ -1,3 +1,11 @@
+# Preview
+
+
+
+https://github.com/robertDinca2003/StopWatch-App/assets/71851178/1e972512-28ca-4342-8074-bf4c5b0e8030
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
